@@ -1,1 +1,6 @@
 An extra file.
+<<<<<<< HEAD
+An extra file.  
+
+=======
+>>>>>>> FETCH_HEAD
